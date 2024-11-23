@@ -1,16 +1,21 @@
 .navbar{
-    background-color: rgb(169, 209, 255) !important;
+    background-color: rgb(58, 19, 120) !important;
   }
    
   .nav-link{
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   }
    
   .navbar-brand{
-    color: black;
+    color: rgb(255, 255, 255);
+  }
+
+  .progress{
+    background-color: brown;
+    z-index: 3;
   }
    
   .card{
-    background-color: blueviolet;
+    background-color: rgb(215, 173, 255);
   }
   
