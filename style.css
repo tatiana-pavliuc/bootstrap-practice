@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(169, 209, 255) !important;
+  }
+   
+  .nav-link{
+  color: rgb(0, 0, 0);
+  }
+   
+  .navbar-brand{
+    color: black;
+  }
+   
+  .card{
+    background-color: blueviolet;
+  }
+  
