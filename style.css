@@ -1,5 +1,5 @@
 .navbar{
-    background-color: rgb(58, 19, 120) !important;
+    background-color: rgba(0, 0, 0, 0.553) !important;
   }
    
   .nav-link{
@@ -9,13 +9,34 @@
   .navbar-brand{
     color: rgb(255, 255, 255);
   }
-
-  .progress{
-    background-color: brown;
-    z-index: 3;
-  }
    
   .card{
-    background-color: rgb(215, 173, 255);
+    background-color: rgba(0, 0, 0, 0.737);
   }
   
+  .card-title{
+    color: white;
+  }
+
+  .card-text{
+    color: white;
+  }
+  /*rgb(58, 19, 120)
+
+  /* Уменьшаем размер карусели */
+  #reviewCarousel .carousel-inner {
+    max-width: 60%; /* уменьшить размер карусели */
+    margin: 0 auto;
+  }
+
+  
+
+  /* Увеличиваем видимость стрелок */
+  .carousel-control-prev, .carousel-control-next {
+    width: 3%; /* уменьшить размер стрелок */
+    background-color: rgba(0, 0, 0, 0.5); /* полупрозрачный черный фон */
+  }
+
+  .carousel-control-prev:hover, .carousel-control-next:hover {
+    background-color: rgba(0, 0, 0, 0.7); /* темнее при наведении */
+  }
