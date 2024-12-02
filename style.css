@@ -1,3 +1,7 @@
+.body {
+  width:100%;
+}
+
 .navbar{
     background-color: rgba(0, 0, 0, 0.553) !important;
   }
@@ -28,8 +32,6 @@
     max-width: 60%; /* уменьшить размер карусели */
     margin: 0 auto;
   }
-
-  
 
   /* Увеличиваем видимость стрелок */
   .carousel-control-prev, .carousel-control-next {
